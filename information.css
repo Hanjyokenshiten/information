@@ -58,3 +58,7 @@ table td {
   color: #881C36;
   font-size: 24px;
 }
+
+iframe {
+  margin: 30px 0;
+}

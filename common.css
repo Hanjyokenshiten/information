@@ -120,12 +120,14 @@ body footer .ft-sec {
 
 body footer .footer-btns {
   margin: 30px auto 30px auto;
-  width: 150px;
+  width: 260px;
   display: flex
 }
 
+body footer .footer-btns .twitter-btn,
 body footer .footer-btns .facebook-btn,
-body footer .footer-btns .instagram-btn {
+body footer .footer-btns .instagram-btn,
+body footer .footer-btns .tiktok-btn {
   padding-left: 2.5px;
   width: 50px;
   height: 50px;
@@ -136,8 +138,10 @@ body footer .footer-btns .instagram-btn {
   text-decoration: none
 }
 
+body footer .footer-btns .twitter-btn i,
 body footer .footer-btns .facebook-btn i,
-body footer .footer-btns .instagram-btn i {
+body footer .footer-btns .instagram-btn i,
+body footer .footer-btns .tiktok-btn i {
   color: #881C36;
   font-size: 24px;
   display: flex;

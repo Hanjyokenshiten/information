@@ -31,6 +31,11 @@ body .main .row .news-card {
   margin-left: 90px
 }
 
+body .main .row .parking2 {
+  color: #881C36;
+  font-size: 24px;
+}
+
 body .main .row .ttl {
   color: #FAFFFF;
   background-color: #881C36;
